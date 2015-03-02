@@ -1,5 +1,7 @@
 # FullCalendar
 
+**NOTE**: This repository is only going to exist until the new version of the official package is published. See this issue: https://github.com/arshaw/fullcalendar/pull/222
+
 A full-sized drag & drop event calendar (jQuery plugin).
 
 - [Project website and demos](http://arshaw.com/fullcalendar/)
